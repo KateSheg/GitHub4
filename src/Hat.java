@@ -3,5 +3,7 @@ public class Hat {
     //zzzzzzzzzzzzzzzz
     
     //xxxxxxxxxxxxxxxx
+    
+    //vvvvvvvvvvvvvvvv
   }
 }
