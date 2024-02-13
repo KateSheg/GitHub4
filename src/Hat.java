@@ -5,5 +5,7 @@ public class Hat {
     //xxxxxxxxxxxxxxxx
     
     //vvvvvvvvvvvvvvvv
+    
+    //llllllllllllllll
   }
 }
